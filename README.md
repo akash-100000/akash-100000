@@ -1,4 +1,4 @@
-- 👋 Hi, I’m akash
+- 👋Vishwajeet Hi, I’m akash
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react framework and DSA
 - 📫 you can contact me via my email ak668463@gmail.com
